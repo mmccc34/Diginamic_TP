@@ -1,0 +1,36 @@
+.guitare{
+    width: 400px;
+    height: 400px;
+}
+.prenom {
+    display: flex;
+    justify-content: center;
+}
+.nom {
+    display: flex;
+    justify-content: center
+}
+.email {
+    display: flex;
+    justify-content: center
+}
+.message {
+    display: flex;
+    justify-content: center
+}
+.boutonenvoyer {
+    display: flex;
+    justify-content: center; 
+}
+h1 {
+    text-align: center;
+    color: blue;
+}
+p {
+    text-align: center;
+}
+.sebastien {
+    font-size: larger;
+    font-weight: bold;
+    color: brown;
+}
